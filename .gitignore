@@ -14,8 +14,6 @@ __pycache__/
 dist/
 build/
 
-# Local database
-todos.db
 
 # Environment variables
 .env
